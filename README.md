@@ -58,3 +58,5 @@ I learnt about box-sizing and background-position-x CSS properties.
 - Frontend Mentor - Manisha3196
 
 ## Acknowledgments
+
+I would like to thank frontend mentor for all the efforts to help other frontend developers. and all the other developers who are providing great feedback to help the other developers.
